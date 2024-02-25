@@ -6,6 +6,7 @@ public class GameData
 {
     static int score;
     public static int applesRemaning;
+    public static float secondsSinceLastSpawn;
     public static int Score
     {
         get
